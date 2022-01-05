@@ -61,6 +61,7 @@ section h5{
     border: 1px solid;
     border-image-source: linear-gradient(to right, gray, black);
     border-image-slice: 1;
+    margin-bottom: 36px;
 }
 
 #extra-font{
